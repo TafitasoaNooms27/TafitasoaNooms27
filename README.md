@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Everybody</h1>
  <h2 align="center"> 
-  color=%230FB5D4&center=true&height=100&lines=RANDRIAMAMPIANINA+Nomena+Tafitasoa;DevOps+Engineer+Mid+Level;Django+Developer"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=D71232&center=true&vCenter=true&width=600&lines=Hello%F0%9F%91%8B%2C+I'm+Larry;I'm+a+Fullstack+Developer%F0%9F%94%A5;Nice+To+Meet+You%F0%9F%98%8C%E2%9C%A8" alt="Typing SVG" align="center" width="90%"/>
 </h2>
 
 - 🌱 I’m currently learning **MLOPS and Personal Branding**

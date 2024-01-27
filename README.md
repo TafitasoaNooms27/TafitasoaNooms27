@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tafitasoa Nomena RANDRIAMAMPIANINA</h1>
-<h3 align="center">A DevOps engineer and Django developer Mid Level from Madagascar</h3>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=D71232&center=true&vCenter=true&width=600&lines=Hello%F0%9F%91%8B%2C+I'm+Nomena+Tafitasoa+RANDRIAMAMPIANINA;I'm+a+DevOps+engineer+Mid+Level+ and + Django+Developer+and+%F0%9F%94%A5;Nice+To+Meet+You%F0%9F%98%8C%E2%9C%A8" alt="Typing SVG" align="center" width="90%"/>
 
 - 🌱 I’m currently learning **MLOPS and Personal Branding**
 

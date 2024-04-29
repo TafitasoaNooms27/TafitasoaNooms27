@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nomenatafitarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomenatafitarr" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/tafitasoa nomena randriamampianina](https://www.linkedin.com/in/tafitasoa-nomena-randriamampianina-71b66b245/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tafitasoa nomena randriamampianina" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tafitasoa-nomena-randriamampianina-71b66b245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tafitasoa nomena randriamampianina" height="30" width="40" /></a>
 <a href="https://fb.com/tafitasoa nomena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tafitasoa nomena" height="30" width="40" /></a>
 </p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Everybody</h1>
 
 <h2 align="center"> 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=700&color=dfcc8c&center=true&vCenter=true&width=1500&lines=Hello%F0%9F%91%8B%2C+I'm+Nomena+Tafitasoa+RANDRIAMAMPIANINA;I'm+a+DevOps+Engineer+Mid+Level%f0%9f%9a%80;and+Django+Developer+Mid+level%F0%9F%94%A5;Let's+work+together%f0%9f%98%8e%E2%9C%A8" alt="Typing SVG" align="center" width="90%"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=700&color=dfcc8c&center=true&vCenter=true&width=1500&lines=Hello%F0%9F%91%8B%2C+I'm+Nomena+Tafitasoa+RANDRIAMAMPIANINA;I'm+a+DevOps+Engineer+Mid+Level%f0%9f%9a%80;and+Senior+Django+Developer+%F0%9F%94%A5;Let's+work+together%f0%9f%98%8e%E2%9C%A8" alt="Typing SVG" align="center" width="90%"/>
 </h2>
 
 
